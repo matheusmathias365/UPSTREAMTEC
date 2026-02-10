@@ -56,7 +56,7 @@ upstream/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+   git clone https://github.com/matheusmathias365/UPSTREAMTEC.git
    ```
 2. **Navegue até a pasta do projeto:**
    ```bash
